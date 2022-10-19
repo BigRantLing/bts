@@ -21,7 +21,7 @@
     </build>
 
     <properties>
-        <jackson.version>2.10.2</jackson.version>
+        <jackson.version>2.13.4.1</jackson.version>
         <scala.version>2.12.11</scala.version>
         <druid.version>0.18.1</druid.version>
     </properties>
